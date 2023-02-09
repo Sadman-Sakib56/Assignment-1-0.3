@@ -1,3 +1,54 @@
-h1 {
-    color: green;
-}
+ * {
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+ }
+
+ /* banner-area */
+
+ .banner-section {
+    background-image: url('../images/banner/banner3.png');
+    width: 100%;
+    height: 808px;
+    background-repeat: no-repeat;
+
+ }
+
+ .banner-items {}
+
+ .banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 225px;
+    padding-left: 860px;
+    padding-right: 225px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+ }
+
+ .banner-description {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 890px;
+    margin-top: 25px;
+    padding-right: 225px;
+    text-align: right;
+
+ }
+
+ .btn-primary {
+    margin-top: 32px;
+    margin-left: 1140px;
+    margin-right: 250px;
+    border: none;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+
+ }
