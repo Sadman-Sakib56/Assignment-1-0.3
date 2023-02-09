@@ -52,3 +52,119 @@
     color: #005FAC;
 
  }
+
+
+ /* failure section styles */
+
+ .failure-section {
+    display: flex;
+    gap: 25px;
+    height: 500px;
+
+
+
+
+ }
+
+ .failure-img {
+    width: 50%;
+    height: 723.3px;
+    margin-left: 110px;
+
+ }
+
+ .failure-items {
+
+    width: 20%;
+    height: 400px;
+    margin-top: 200px;
+
+
+ }
+
+ .failure-title {
+    font-weight: 700;
+    font-size: 40px;
+ }
+
+ .failure-description {
+    padding-top: 16px;
+    color: #444343;
+ }
+
+ .failure-list {
+    margin-top: 15px;
+    color: #444343;
+ }
+
+ h5 {
+    padding-top: 8px
+ }
+
+ .fa-sharp {
+    color: green;
+    padding-right: 10px;
+
+ }
+
+ /* plan area */
+ .my-plan-sec {
+    margin-top: 300px;
+    margin-left: 100px;
+ }
+
+ .plan-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+ }
+
+ .skill-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+
+ .plan-section {
+    display: flex;
+    justify-content: space-around;
+ }
+
+ /* special section */
+
+ .special-section {
+    background-image: url('../images/watch.png');
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-radius: 10px;
+
+    width: 1100px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 190px;
+
+ }
+
+ .special-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: left;
+    padding-top: 70px;
+    padding-left: 80px;
+
+ }
+
+ .btn-secondary {
+    margin-top: 32px;
+    margin-left: 80px;
+    margin-right: 250px;
+    border: none;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+ }
